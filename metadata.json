@@ -1,0 +1,6 @@
+{
+  "name": "DueMate AI",
+  "description": "Premium role-adaptive deadline rescue companion. Turn stressful deadlines into simple, doable actions.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
