@@ -1,7 +1,7 @@
 # 🚀 DueMate AI: The Last-Minute Life Saver & Deadline Rescue Companion
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop" alt="DueMate AI Banner" width="100%" style="border-radius: 24px; box-shadow: 0 20px 40px rgba(0,0,0,0.3);" />
+  <img src="https://github.com/user-attachments/assets/390c7222-f776-4fa7-8c85-fa5045ab69e0" alt="DueMate AI Banner" width="100%" style="border-radius: 24px; box-shadow: 0 20px 40px rgba(0,0,0,0.3);" />
 </p>
 
 ---
